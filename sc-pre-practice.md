@@ -89,4 +89,3 @@ When you want to stop execute the last line
 ![sc-free](.imgs/sc-free)
 
 Experiment! go back and forth between the two different code chunks, make music and try to do it live with as little silence as possible, can you do it? Can you create multiple versions of each? Look at how much you are doing already! Good work!!!!
-
