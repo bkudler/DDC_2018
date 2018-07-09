@@ -56,7 +56,7 @@ SuperCollider helps us with that. Put your cursor right before the first parenth
 
 Go ahead and highlight everything in yellow, it should look like this
 
-![sc-highlighted-1](.imgs/sc-highlighted-1.png)
+![sc-highlighted-1](./imgs/sc-highlighted-1.png)
 
 and hit `cmd enter`
 
@@ -72,7 +72,7 @@ okay, let's go a little further
 
 copy this code, it will help you learn!
 
-![sc-live](.imgs/sc-live.png)
+![sc-live](./imgs/sc-live.png)
 
 Once you have it written out highlight the highlighted segment, remember, to get the code block, just place your cursor before the first parentheses.
 
@@ -86,6 +86,6 @@ What happens?? Try changing the number and executing multiple times.
 
 When you want to stop execute the last line
 
-![sc-free](.imgs/sc-free.png)
+![sc-free](./imgs/sc-free.png)
 
 Experiment! go back and forth between the two different code chunks, make music and try to do it live with as little silence as possible, can you do it? Can you create multiple versions of each? Look at how much you are doing already! Good work!!!!
