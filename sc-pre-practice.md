@@ -6,4 +6,4 @@ The following will walk you through, step by step, starting up SuperCollider and
 
 The first thing you will need to do is open SuperCollider, open it up! Once the program is open it will look something like this:
 
-![sc-just-open](./imgs/sc-just-open)
+![sc-just-open](./imgs/sc-just-open.png)
