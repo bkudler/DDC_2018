@@ -80,12 +80,12 @@ I also show where you should highlight.
 
 Try executing the next line, as shown here.
 
-![sc-set](./imgs/sc-set)
+![sc-set](./imgs/sc-set.png)
 
 What happens?? Try changing the number and executing multiple times.
 
 When you want to stop execute the last line
 
-![sc-free](.imgs/sc-free)
+![sc-free](.imgs/sc-free.png)
 
 Experiment! go back and forth between the two different code chunks, make music and try to do it live with as little silence as possible, can you do it? Can you create multiple versions of each? Look at how much you are doing already! Good work!!!!
