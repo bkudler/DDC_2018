@@ -32,23 +32,23 @@ I have included some pre-practice materials that maybe helpful to look over befo
   *  :50 Focused work 
     * Together we will walk through how to change the the depth on the LFO and add speed control to the LFO in the code
     * Students will make some changes to their synthesizers with assistance from myself and TAs
-      + Mild Challenges
-       + Change the amount of a parameter in the GUI
-       + Change something about the LFO in the synth
-       + Make The Noise Volume Work
-     + Medium Challenges
+       * Mild Challenges
+        + Change the amount of a parameter in the GUI
+        + Change something about the LFO in the synth
+        + Make The Noise Volume Work
+      * Medium Challenges
        + Make the Noise Filter Work
        + Make the OscTwo RQ control work
        + Make the envelope control different parts of the synth
        + Add modulation to envelope speed
        + Add modulation any frequency controller
-    + Spicy Challenges
-       + Add another LFO w/GUI
-       + Add another osc w/GUI
-       + Add modulation any frequency controller w/GUI
-       + Add modulation to envelope speed w/GUI
-       + Add another filter w/GUI
-     
+     * Spicy Challenges
+        + Add another LFO w/GUI
+        + Add another osc w/GUI
+        + Add modulation any frequency controller w/GUI
+        + Add modulation to envelope speed w/GUI
+        + Add another filter w/GUI
+
   * :20 Wrap-up discussion & sharing, reflection or journal and next steps
     * Students will share things they added to their synths
     * Students will be invited for a last 5 minute improvisation
