@@ -28,10 +28,15 @@ I have included some pre-practice materials that maybe helpful to look over befo
   * :25 Instruction & hands on exercise 
     * I will walk through some of the things that I do with the synths
     * Invite a couple of students to sit down and improvise with each other for 5 minutes
-    * Have students discuss some of their thoughts about improvisation
-    * Show students how to make some changes to the synthesizer
+    * Have students discuss some of their thoughts about improvisation including what more they wish they _could_ do
   *  :50 Focused work 
+    * Together we will walk through how to change the the depth on the LFO and add speed control to the LFO in the code
     * Students will make some changes to their synthesizers with assistance from myself and TAs
+      +Mild Challenges
+       +Change the amount of a parameter in the GUI
+       +Chane something about the LFO in the synth
+       +Make The Noise Volume Work
+     
   * :20 Wrap-up discussion & sharing, reflection or journal and next steps
     * Students will share things they added to their synths
     * Students will be invited for a last 5 minute improvisation
