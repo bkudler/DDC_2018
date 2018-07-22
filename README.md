@@ -42,7 +42,7 @@ I have included some pre-practice materials that maybe helpful to look over befo
         + Make the envelope control different parts of the synth
         + Add modulation to envelope speed
         + Add modulation any frequency controller
-     * Spicy Challenges
+      * Spicy Challenges
          + Add another LFO w/GUI
          + Add another osc w/GUI
          + Add modulation any frequency controller w/GUI
